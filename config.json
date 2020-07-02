@@ -1,6 +1,4 @@
 {
-	"prefix": "",
-	"token":"",
-  "weather": "",
-   "dog_api": "",
+	"prefix": "your prefix",
+	"token":"your token",
 }
