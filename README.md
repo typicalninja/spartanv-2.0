@@ -11,3 +11,8 @@
 
 
 spartan v2.0 is a super fun bot
+we have another bot 
+axix
+
+#join our discord
+<iframe src="https://discord.com/widget?id=715518142893260971&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
