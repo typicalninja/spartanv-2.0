@@ -1,5 +1,7 @@
 > this was where i started coding, way back before i started axix, i have deicded to make the repo public for you guys to view, as this was when i started coding all of this code suck : ) (this bot is discontinued)
 
+> ps: this is not the full code, most of the commands was lost when i deleted my repl (https://repl.it), only these were pushed to github last : (
+> also you will see some random requires for packages i dont even use, ignore those
 
 
 # spartanv-2.0
